@@ -55,11 +55,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnasingla&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnasingla&layout=compact&theme=radical)
-
----
-
