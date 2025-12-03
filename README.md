@@ -48,9 +48,9 @@
 
 ### 📬 Let's Connect
 
-- 🌐 Portfolio: [krishnasingla.biz](https://krishnasingla.biz)  
-- 💌 Email: [krishna@lagaryan.onmicrosoft.com](mailto:krishna@lagaryan.onmicrosoft.com)  
-- 💼 LinkedIn: [linkedin.krishnasingla.biz](https://linkedin.krishnasingla.biz)  
+- 🌐 Portfolio: [krishnasingla.biz](https://krishnagupta.live)  
+- 💌 Email: [krishna@krishnagupta.live](mailto:krishna@krishnagupta.live)  
+- 💼 LinkedIn: [linkedin.krishnasingla.biz](https://linkedin.krishnagupta.live)  
 
 ---
 
