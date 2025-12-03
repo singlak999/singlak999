@@ -51,7 +51,6 @@
 - 🌐 Portfolio: [krishnasingla.biz](https://krishnasingla.biz)  
 - 💌 Email: [krishna@lagaryan.onmicrosoft.com](mailto:krishna@lagaryan.onmicrosoft.com)  
 - 💼 LinkedIn: [linkedin.krishnasingla.biz](https://linkedin.krishnasingla.biz)  
-- 🐦 Twitter: [@krishnasingla](https://twitter.com/krishnasingla)
 
 ---
 
