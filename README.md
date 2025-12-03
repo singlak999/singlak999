@@ -48,9 +48,8 @@
 
 ### 📬 Let's Connect
 
-- 🌐 Portfolio: [krishnasingla.biz](https://krishnagupta.live)  
+- 🌐 Portfolio: [krishnagupta.live](https://krishnagupta.live)  
 - 💌 Email: [krishna@krishnagupta.live](mailto:krishna@krishnagupta.live)  
-- 💼 LinkedIn: [linkedin.krishnasingla.biz](https://linkedin.krishnagupta.live)  
 
 ---
 
