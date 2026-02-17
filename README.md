@@ -1,55 +1,97 @@
 # Hi there, I'm Krishna Singla! 👋
 
-🚀 Engineering Student | 🌱 Cybersecurity Enthusiast | ⚡ Innovator
+🚀 Cloud Security Associate | 🛡️ Cybersecurity Specialist | ⚡ Innovator
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science Engineering** (Specialization in Cybersecurity & Digital Forensics) | Expected Graduation: August 2025  
+- 🎓 **B.Tech in Computer Science Engineering** (Specialization in Cybersecurity & Digital Forensics)  
+  **Vellore Institute of Technology** | CGPA: **8.82** | 2021-2025
 - 🏅 Winner of **Design Thinking Challenge** organized by SMEC, VIT-AP University (May 2023)
-- 📚 Contributed to the book *Intelligent Methods in Electrical Power Systems*, published by Springer
+- 📚 Published contributor to *Intelligent Systems in Electrical Engineering*, Springer (June 2023)
 - 🎉 Selected for **Amazon Machine Learning Summer School 2024**
+- 🌏 Represented India at **VOIS International Hackathon** by Vodafone
+- 🎓 **Oracle Cloud Infrastructure DevOps Professional** Certified
 
 ---
 
-### 🔭 Current Projects
+## 🔭 Projects
 
-- **Facial Recognition Surveillance System** using Raspberry Pi  
-- **Facial Attendance System** leveraging Firebase and AWS  
-- A **File-sharing Platform** built with Go (JWT/OAuth2, S3 integration, PostgreSQL, and caching)  
-- A **Video-to-GIF App** that creates transcribed GIFs with customizable fonts
+### Real-Time Phishing Detection Proxy Server
+- Designed a proxy server to intercept HTTP/HTTPS traffic and extract URLs for analysis
+- Developed a custom **machine learning model** to classify URLs as phishing or legitimate with real-time blocking
 
----
+### Facial Recognition Attendance System
+- Engineered a system using **Firebase and AWS**, streamlining attendance tracking for **500+ employees**
+- Reduced manual entry time by **80 hours monthly** and cut administrative hours by **50%**
 
-### 🛠️ Skills & Tools
+### Multi-Language Intelligent Home Automation System
+- Built using **Raspberry Pi, Microsoft Power Automate, and Google Assistant**
+- Enabled remote control and scheduling, decreasing energy consumption by **75%**
 
-#### Languages:
-- Python, C++, Go, Dart
+### Facial Recognition Surveillance System
+- Developed using **Raspberry Pi** with algorithms achieving **95% accuracy** in real-time tracking
 
-#### Frameworks & Tools:
-- Flask, RASA, Eleventy (11ty), Docker, Wazuh
+### RASA-Based WhatsApp Chatbot
+- Deployed with NLP capabilities, reducing customer service response time by **50%**
+- Increased customer satisfaction ratings by **20%** through sentiment analysis
 
-#### Databases:
-- Firebase Realtime Database, PostgreSQL
+### Flask-Based WhatsApp Chatbot
+- Automated **500+ customer interactions monthly**, improving team productivity
 
-#### Cloud & Platforms:
-- AWS (S3), Raspberry Pi
-
----
-
-### 🌟 Achievements
-
-- 🏅 Winner of **Design Thinking Challenge** (2023)
-- 📜 Contributor to *Intelligent Methods in Electrical Power Systems* (Springer)
-- 🎓 Selected for **Amazon Machine Learning Summer School 2024**
+### Network Traffic Monitoring (Controlled Environment)
+- Designed a network traffic monitoring system using **ARP**
+- Enhanced throughput by **40%** and decreased packet loss rates by **15%**
 
 ---
 
-### 📬 Let's Connect
+## 🛠️ Skills & Tools
 
-- 🌐 Portfolio: [krishnagupta.live](https://krishnagupta.live)  
-- 💌 Email: [krishna@krishnagupta.live](mailto:krishna@krishnagupta.live)  
+### Programming Languages
+Python • Java • R • C++ • Dart
+
+### Packages & Frameworks
+NumPy • Pandas • OpenCV • Flask • SQL • Rasa • Flutter
+
+### Core Skills
+Object Oriented Programming • Data Structures • Penetration Testing • Binary Exploitation • Linux • Cloud Computing • Firebase • Cryptography • Post Quantum Cryptography
+
+### Cloud Platforms
+Microsoft Azure • AWS • Kubernetes
+
+### Security & Monitoring Tools
+Cribl • Splunk • Wireshark • Burp Suite • SNORT • Nginx • Git • Opensearch • Logstash • Hydra • MetaSploit • KeyCaliber • Spidersilk • Microsoft Sentinel • Rubrik Security Cloud • VMware vSphere • Suricata • Sysmon • IDPS
+
+### Automation
+Microsoft Power Automate
 
 ---
 
+## 🌟 Achievements & Recognition
+
+- 🏆 **Winner** - Design Thinking Challenge, VIT-AP University (May 2023)
+- 📖 **Published Author** - "IoT based Intelligent Home Automation System using IFTTT with Google Assistant", Springer (June 2023)
+- 🎓 **Selected** - Amazon Machine Learning Summer School 2024
+- 🌏 **International Representative** - VOIS Hackathon by Vodafone
+- 🎖️ **Oracle Cloud Infrastructure DevOps Professional** - Certified
+
+---
+
+## 👥 Leadership & Extracurriculars
+
+- **Technical Team Lead and Treasurer** | LIT-Data Analysis Club
+- **Technical Team Lead** | Next-Gen Cloud Club
+- **Technical Team Member** | Computer Society of India
+
+---
+
+## 📬 Let's Connect
+
+- 🌐 **Portfolio**: [krishnagupta.live](https://krishnagupta.live)
+- 💼 **LinkedIn**: [Krishna Singla](https://www.linkedin.com/in/krishna-k-21117b219/)
+- 💻 **GitHub**: [singlak999](https://github.com/singlak999)
+- 📧 **Email**: [singlak999@outlook.com](mailto:singlak999@outlook.com)
+- 📱 **Phone**: +91 9350695701
+
+---
